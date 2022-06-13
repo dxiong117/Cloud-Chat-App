@@ -1,0 +1,114 @@
+edu/stevens/cs522/chat/ui/MessageAdapter.java
+ edu.stevens.cs522.chat.ui.MessageAdapter
+ edu.stevens.cs522.chat.ui.MessageAdapter$ViewHolder
+edu/stevens/cs522/chat/rest/client/HeaderInterceptor.java
+ edu.stevens.cs522.chat.rest.client.HeaderInterceptor
+edu/stevens/cs522/chat/rest/work/PostMessageWorker.java
+ edu.stevens.cs522.chat.rest.work.PostMessageWorker
+edu/stevens/cs522/chat/activities/RegisterActivity.java
+ edu.stevens.cs522.chat.activities.RegisterActivity
+edu/stevens/cs522/chat/activities/ViewPeerActivity.java
+ edu.stevens.cs522.chat.activities.ViewPeerActivity
+edu/stevens/cs522/chat/rest/client/ExcludeStrategy.java
+ edu.stevens.cs522.chat.rest.client.ExcludeStrategy
+edu/stevens/cs522/chat/settings/Settings.java
+ edu.stevens.cs522.chat.settings.Settings
+edu/stevens/cs522/chat/rest/request/ChatServiceResponse.java
+ edu.stevens.cs522.chat.rest.request.ChatServiceResponse
+ edu.stevens.cs522.chat.rest.request.ChatServiceResponse$1
+ edu.stevens.cs522.chat.rest.request.ChatServiceResponse$2
+ edu.stevens.cs522.chat.rest.request.ChatServiceResponse$ResponseType
+edu/stevens/cs522/chat/ui/TextAdapter.java
+ edu.stevens.cs522.chat.ui.TextAdapter
+ edu.stevens.cs522.chat.ui.TextAdapter$OnItemClickListener
+ edu.stevens.cs522.chat.ui.TextAdapter$ViewHolder
+edu/stevens/cs522/chat/rest/request/SynchronizeRequest.java
+ edu.stevens.cs522.chat.rest.request.SynchronizeRequest
+ edu.stevens.cs522.chat.rest.request.SynchronizeRequest$1
+edu/stevens/cs522/chat/rest/request/DummyResponse.java
+ edu.stevens.cs522.chat.rest.request.DummyResponse
+ edu.stevens.cs522.chat.rest.request.DummyResponse$1
+edu/stevens/cs522/chat/databases/ChatDatabase.java
+ edu.stevens.cs522.chat.databases.ChatDatabase
+edu/stevens/cs522/chat/rest/client/StreamingOutput.java
+ edu.stevens.cs522.chat.rest.client.StreamingOutput
+edu/stevens/cs522/chat/util/ParcelableUtil.java
+ edu.stevens.cs522.chat.util.ParcelableUtil
+edu/stevens/cs522/chat/services/ResultReceiverWrapper.java
+ edu.stevens.cs522.chat.services.ResultReceiverWrapper
+ edu.stevens.cs522.chat.services.ResultReceiverWrapper$IReceive
+edu/stevens/cs522/chat/rest/request/PostMessageRequest.java
+ edu.stevens.cs522.chat.rest.request.PostMessageRequest
+ edu.stevens.cs522.chat.rest.request.PostMessageRequest$1
+edu/stevens/cs522/chat/databases/MessageDAO.java
+ edu.stevens.cs522.chat.databases.MessageDAO
+edu/stevens/cs522/chat/databases/PeerDAO.java
+ edu.stevens.cs522.chat.databases.PeerDAO
+edu/stevens/cs522/chat/rest/work/SynchronizeWorker.java
+ edu.stevens.cs522.chat.rest.work.SynchronizeWorker
+edu/stevens/cs522/chat/rest/request/ChatServiceRequest.java
+ edu.stevens.cs522.chat.rest.request.ChatServiceRequest
+ edu.stevens.cs522.chat.rest.request.ChatServiceRequest$1
+ edu.stevens.cs522.chat.rest.request.ChatServiceRequest$2
+ edu.stevens.cs522.chat.rest.request.ChatServiceRequest$RequestType
+ edu.stevens.cs522.chat.rest.request.ChatServiceRequest$StatusType
+edu/stevens/cs522/chat/activities/ChatActivity.java
+ edu.stevens.cs522.chat.activities.ChatActivity
+edu/stevens/cs522/chat/rest/request/SynchronizeResponse.java
+ edu.stevens.cs522.chat.rest.request.SynchronizeResponse
+ edu.stevens.cs522.chat.rest.request.SynchronizeResponse$1
+edu/stevens/cs522/chat/location/CurrentLocation.java
+ edu.stevens.cs522.chat.location.CurrentLocation
+edu/stevens/cs522/chat/entities/Peer.java
+ edu.stevens.cs522.chat.entities.Peer
+ edu.stevens.cs522.chat.entities.Peer$1
+edu/stevens/cs522/chat/entities/InetAddressConverter.java
+ edu.stevens.cs522.chat.entities.InetAddressConverter
+edu/stevens/cs522/chat/rest/request/PostMessageResponse.java
+ edu.stevens.cs522.chat.rest.request.PostMessageResponse
+ edu.stevens.cs522.chat.rest.request.PostMessageResponse$1
+edu/stevens/cs522/chat/rest/RequestProcessor.java
+ edu.stevens.cs522.chat.rest.RequestProcessor
+ edu.stevens.cs522.chat.rest.RequestProcessor$1
+edu/stevens/cs522/chat/activities/ViewPeersActivity.java
+ edu.stevens.cs522.chat.activities.ViewPeersActivity
+edu/stevens/cs522/chat/viewmodels/PeerViewModel.java
+ edu.stevens.cs522.chat.viewmodels.PeerViewModel
+edu/stevens/cs522/chat/rest/client/Exclude.java
+ edu.stevens.cs522.chat.rest.client.Exclude
+edu/stevens/cs522/chat/rest/request/RegisterResponse.java
+ edu.stevens.cs522.chat.rest.request.RegisterResponse
+ edu.stevens.cs522.chat.rest.request.RegisterResponse$1
+edu/stevens/cs522/chat/services/RegisterService.java
+ edu.stevens.cs522.chat.services.RegisterService
+edu/stevens/cs522/chat/rest/RestMethod.java
+ edu.stevens.cs522.chat.rest.RestMethod
+ edu.stevens.cs522.chat.rest.RestMethod$1
+edu/stevens/cs522/chat/databases/RequestDAO.java
+ edu.stevens.cs522.chat.databases.RequestDAO
+edu/stevens/cs522/chat/entities/DateConverter.java
+ edu.stevens.cs522.chat.entities.DateConverter
+edu/stevens/cs522/chat/rest/request/RegisterRequest.java
+ edu.stevens.cs522.chat.rest.request.RegisterRequest
+ edu.stevens.cs522.chat.rest.request.RegisterRequest$1
+edu/stevens/cs522/chat/BuildConfig.java
+ edu.stevens.cs522.chat.BuildConfig
+edu/stevens/cs522/chat/rest/request/ErrorResponse.java
+ edu.stevens.cs522.chat.rest.request.ErrorResponse
+ edu.stevens.cs522.chat.rest.request.ErrorResponse$1
+ edu.stevens.cs522.chat.rest.request.ErrorResponse$Status
+edu/stevens/cs522/chat/rest/client/TimestampSerializer.java
+ edu.stevens.cs522.chat.rest.client.TimestampSerializer
+edu/stevens/cs522/chat/entities/Message.java
+ edu.stevens.cs522.chat.entities.Message
+ edu.stevens.cs522.chat.entities.Message$1
+edu/stevens/cs522/chat/rest/client/ServerApi.java
+ edu.stevens.cs522.chat.rest.client.ServerApi
+edu/stevens/cs522/chat/rest/ChatHelper.java
+ edu.stevens.cs522.chat.rest.ChatHelper
+edu/stevens/cs522/chat/viewmodels/ChatViewModel.java
+ edu.stevens.cs522.chat.viewmodels.ChatViewModel
+edu/stevens/cs522/chat/rest/client/StreamingResponse.java
+ edu.stevens.cs522.chat.rest.client.StreamingResponse
+edu/stevens/cs522/chat/viewmodels/PeersViewModel.java
+ edu.stevens.cs522.chat.viewmodels.PeersViewModel
